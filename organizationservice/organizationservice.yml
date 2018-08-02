@@ -1,5 +1,5 @@
 example.organization.property: "I AM THE DEFAULT ORGANIZATION SERVICE"
-management.security.enabled: true #是否开启actuator安全认证
+management.security.enabled: "true"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
